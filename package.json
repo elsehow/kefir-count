@@ -1,0 +1,23 @@
+{
+  "name": "kefir-count",
+  "version": "1.0.0",
+  "description": "count the number of items that come over a kefir stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elsehow/kefir-count.git"
+  },
+  "keywords": [
+    "kefir",
+    "frp"
+  ],
+  "author": "elsehow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elsehow/kefir-count/issues"
+  },
+  "homepage": "https://github.com/elsehow/kefir-count#readme"
+}
